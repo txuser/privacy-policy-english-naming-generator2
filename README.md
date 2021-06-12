@@ -6,3 +6,23 @@
 
 ## 2. お問い合わせ先
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+
+
+# Privacy Policy of "Infinite Name Generator"
+
+## 1. Handling of user information
+The main function of this application is to work offline only and does not acquire any personal information of the user. <br>
+Therefore, we do not use or provide the user's personal information to any third party.
+
+## 2. Contact information
+https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+
+
+# Politique de confidentialité de «Générateur de Noms Anglais» 
+
+## 1. Traitement des informations de l'utilisateur
+La fonction principale de cette application est de travailler uniquement hors ligne et n'acquiert aucune information personnelle de l'utilisateur. <br>
+Par conséquent, nous n'utilisons pas ou ne fournissons pas les informations personnelles de l'utilisateur à un tiers.
+
+## 2. Informations de contact
+https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
