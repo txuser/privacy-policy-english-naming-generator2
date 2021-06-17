@@ -13,8 +13,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gE
 # 「英語ネーミング ジェネレーター」のプライバシー ポリシー
 
 ## 1. 利用者情報の取り扱い
-本アプリの主要な機能はオフラインでのみ動作するものであり、利用者の個人情報を取得することはありません。<br>
-よって、利用者の個人情報を利用、第三者に提供することもありません。
+本アプリでは、広告配信のためにGoogle AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用する場合があります。<br>
+広告配信のために広告IDを取得していますが、個人を特定するため等には使用しておりません。<br>
+取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。<br>
+AdMob（Google Inc.）: https://policies.google.com/technologies/ads?hl=ja <br>
+Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja%EF%BB%BF <br>
 
 ## 2. お問い合わせ先
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
