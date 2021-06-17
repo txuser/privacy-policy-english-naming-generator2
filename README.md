@@ -1,8 +1,11 @@
 # Privacy Policy of "Infinite Name Generator"
 
 ## 1. Handling of user information
-The main function of this application is to work offline only and does not acquire any personal information of the user. <br>
-Therefore, we do not use or provide the user's personal information to any third party.
+This application uses Google AdMob for ad serving and Google Firebase Analytics for the usage analysis.<br>
+Although they obtain ad IDs for ad delivery, I do not use them to identify individuals or for other purposes.<br>
+For more information, please see the Privacy Policy link below.<Br>
+AdMob (Google Inc.): https://policies.google.com/technologies/ads?hl=en <br>
+Firebase Analytics (Google Inc.): https://policies.google.com/privacy?hl=en <br>
 
 ## 2. Contact information
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
@@ -17,7 +20,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gE
 広告配信のために広告IDを取得していますが、個人を特定するため等には使用しておりません。<br>
 取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。<br>
 AdMob（Google Inc.）: https://policies.google.com/technologies/ads?hl=ja <br>
-Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja%EF%BB%BF <br>
+Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja <br>
 
 ## 2. お問い合わせ先
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
@@ -28,8 +31,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gE
 # Politique de confidentialité de «Générateur de Noms Anglais» 
 
 ## 1. Traitement des informations de l'utilisateur
-La fonction principale de cette application est de travailler uniquement hors ligne et n'acquiert aucune information personnelle de l'utilisateur. <br>
-Par conséquent, nous n'utilisons pas ou ne fournissons pas les informations personnelles de l'utilisateur à un tiers.
+Cette application utilise Google AdMob pour la diffusion des annonces et Google Firebase Analytics pour l'analyse de l'utilisation.<br>
+Bien qu'ils obtiennent des identifiants pour la diffusion des annonces, je ne les utilise pas pour identifier les personnes ou à d'autres fins.<br>
+Pour plus d'informations, veuillez consulter le lien de la politique de confidentialité ci-dessous.<Br>
+AdMob (Google Inc.) : https://policies.google.com/technologies/ads?hl=fr <br>
+Firebase Analytics (Google Inc.) : https://policies.google.com/privacy?hl=fr <br>
 
 ## 2. Informations de contact
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
