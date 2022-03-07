@@ -33,9 +33,23 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gE
 ## 1. Traitement des informations de l'utilisateur
 Cette application utilise Google AdMob pour la diffusion des annonces et Google Firebase Analytics pour l'analyse de l'utilisation.<br>
 Bien qu'ils obtiennent des identifiants pour la diffusion des annonces, je ne les utilise pas pour identifier les personnes ou à d'autres fins.<br>
-Pour plus d'informations, veuillez consulter le lien de la politique de confidentialité ci-dessous.<Br>
+Pour plus d'informations, veuillez consulter le lien de la politique de confidentialité ci-dessous.<br>
 AdMob (Google Inc.) : https://policies.google.com/technologies/ads?hl=fr <br>
 Firebase Analytics (Google Inc.) : https://policies.google.com/privacy?hl=fr <br>
 
 ## 2. Informations de contact
+https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+  
+<br>
+<br>
+
+# 无限姓名生成器 "的隐私政策
+## 1. 对用户信息的处理
+本应用程序使用谷歌AdMob进行广告服务，并使用谷歌Firebase Analytics进行使用分析。<br>
+虽然他们获取广告ID用于广告投放，但我不使用它们来识别个人或用于其他目的。<br>
+欲了解更多信息，请参见下面的隐私政策链接。<br>
+AdMob（谷歌公司）：https://policies.google.com/technologies/ads?hl=zh <br>
+Firebase分析（谷歌公司）：https://policies.google.com/privacy?hl=zh <br>
+
+## 2. 联系信息
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
