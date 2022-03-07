@@ -48,8 +48,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gE
 本应用程序使用谷歌AdMob进行广告服务，并使用谷歌Firebase Analytics进行使用分析。<br>
 虽然他们获取广告ID用于广告投放，但我不使用它们来识别个人或用于其他目的。<br>
 欲了解更多信息，请参见下面的隐私政策链接。<br>
-AdMob（谷歌公司）：https://policies.google.com/technologies/ads?hl=zh <br>
-Firebase分析（谷歌公司）：https://policies.google.com/privacy?hl=zh <br>
+AdMob（Google Inc.）：https://policies.google.com/technologies/ads?hl=zh <br>
+Firebase分析（Google Inc.）：https://policies.google.com/privacy?hl=zh <br>
 
 ## 2. 联系信息
 https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
